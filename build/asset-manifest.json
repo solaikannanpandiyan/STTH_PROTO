@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/STTH_PROTO/static/css/main.48e37af3.css",
+    "main.js": "/STTH_PROTO/static/js/main.7dd20d85.js",
+    "index.html": "/STTH_PROTO/index.html",
+    "main.48e37af3.css.map": "/STTH_PROTO/static/css/main.48e37af3.css.map",
+    "main.7dd20d85.js.map": "/STTH_PROTO/static/js/main.7dd20d85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48e37af3.css",
+    "static/js/main.7dd20d85.js"
+  ]
+}
